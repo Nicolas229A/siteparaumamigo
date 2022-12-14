@@ -1,0 +1,39 @@
+footer {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+/*.uaumano{
+  transition: transform .2s;
+}
+.uaumano:hover{
+  transform: scale(1.5);
+}
+
+.card-img-top {
+  transition: transform 0.2s;
+}
+
+.card-img-top:hover {
+  transform: scale(1.1);
+}
+*/
+
+p {
+  color: white;
+}
+.ajuda {
+  max-width: 50px;
+  max-height: 37px;
+  width: auto;
+  height: auto;
+}
+
+.dale {
+  font-weight: bold;
+}
+
+.kkkne {
+  color: rgb(235, 52, 52);
+  font-weight: bold;
+}

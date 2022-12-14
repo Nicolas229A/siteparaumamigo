@@ -1,0 +1,14 @@
+{
+  "name": "gustavo",
+  "version": "1.0.0",
+  "description": "El gus",
+  "main": "gus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
